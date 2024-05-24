@@ -6,8 +6,6 @@
 - [Alleles](#alleles)
 - [Associated diseases](#associated-diseases)
     - [Alzheimer's disease](#aLzheimer's-disease)
-    - [Cardiovascular Disease](#cardiovascular-disease)
-    - [Lewy Body Dementia](#lewy-body-dementia)
     - [Others](#others)
 - [Motifs](#motifs)
 - [Domains](#domains)
@@ -112,14 +110,14 @@ The alignment reveals conserved and variable regions in the amino acid sequences
 **Conserved Region 'RDAEDLQ'**
 - The conserved region "RDAEDLQ" in the APOE gene underscores its crucial role in maintaining the protein's structural integrity and functional capacity. Its preservation through evolutionary processes highlights its importance in the protein's biological functions, particularly in lipid metabolism and transport. Further research into this region could provide deeper insights into its specific roles and potential implications in disease mechanisms and therapeutic interventions.
 
-![fraction of the alignment](alinhamentos3.png)
+![fraction of the alignment](alinhamentos1.png)
 
 
 
 **Non-Conserved Region 'KAYKKELEEQLGPVAEETRARLAKEVQAAQAR'**
 - Non-conserved regions often indicate parts of the protein that can tolerate amino acid changes without significantly affecting the protein's overall function. This flexibility can be essential for adapting to different environmental conditions or functional demands.
 
-![fraction of the alignment](alinhamnetos4.png)
+![fraction of the alignment](alinhamentos2.png)
 
 
 
@@ -129,7 +127,7 @@ The alignment reveals conserved and variable regions in the amino acid sequences
 ## Phylogenetic Tree
 
 
-![phylogenetic tree](arvoreretangular2.png)
+![phylogenetic tree](arvorefilogenetica.png)
 
 
 This phylogenetic tree illustrates the evolutionary relationships between different species based on the APOE gene sequences or a related protein. Several species are represented, including primates such as Homo sapiens and Gorilla gorilla gorilla, non-primate mammals such as Tupaia glis and Lepus europaeus, and others like Castor canadensis and Trichechus manatus latirostris. The detailed analysis of this tree reveals crucial insights into phylogenetic relationships and the evolution of the APOE gene.
