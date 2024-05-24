@@ -18,6 +18,6 @@ The aim of this project is to apply as comprehensively as possible the various b
 
 
 ## Authors
-- Maria Benedita Marques
-- Lara Ribeiro
-- Mariana Pinho
+- [Maria Benedita Marques](https://github.com/beneditamarques23)
+- [Lara Ribeiro](https://github.com/lararib0)
+- [Mariana Pinho](https://github.com/marianaapinho)
